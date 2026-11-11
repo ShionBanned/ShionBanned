@@ -83,17 +83,6 @@ Collaboration  High-impact open-source AI tooling and ambitious products
   </tr>
 </table>
 
-## ◈ GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShionBanned&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=94A3B8" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ShionBanned&hide_border=true&background=00000000&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShionBanned&bg_color=00000000&color=94A3B8&line=6366F1&point=818CF8&area=true&hide_border=true" alt="Contribution graph" />
-</div>
-
 ## ◈ Contribution Snake
 
 <div align="center">
